@@ -11,7 +11,7 @@ setup(
     version="0.0.1",
     author="Codrix",
     author_email="codrix43@gmail.com",
-    description="Pacotes de processamento de imagem: transferência de histograma e comparação de shape.",
+    description="Pacotes de processamento de imagem.",
     long_description=page_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Diego-Rapha/package-template.git",
