@@ -2,19 +2,19 @@
 
 Description. 
 The package package_name_codrix to:
-	Processing:
+	-Processing:
 		- Histogram matching
 		- Structural Similarity
 		- Resize image
 
-	Utils:
+	-Utils:
 		- Read Image
 		- Save Image
 		
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name_codrix
 
 ```bash
 pip install package_name_codrix
@@ -32,7 +32,7 @@ io.my_function()
 ```
 
 ## Author
-Diego (Codrix - Gamer)
+Codrix
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
