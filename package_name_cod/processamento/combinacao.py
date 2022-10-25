@@ -8,7 +8,7 @@ def encontre_a_diferenca (imagem_1, imagem_2):
    cinza_imagem_1 = rgb2gray(imagem_1)
    cinza_imagem_2 = rgb2gray(imagem_2)  
    (score, difference_image) = structural_similarity(cinza_imagem_1, cinza_imagem_2, full=True)
-   print("A similaridade da imagem é de: ", score)
+   print("Similaridade da imagem: ", score)
 
    return difference_image
 
